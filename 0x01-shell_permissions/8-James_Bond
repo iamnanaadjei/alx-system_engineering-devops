@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+rwx 8-James_Bond
+chmod o+rwx hello
